@@ -3,9 +3,9 @@
 <h3 align="center">A passionate software engineer from India  </h3>
 <img align="right"alt="Coding" width="400" src="https://37.media.tumblr.com/c95dc33429844ed60e9dfcb0acbd7553/tumblr_n74rd1jnRI1tp95lfo1_500.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh-100&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh-100" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aarushii-100&label=Profile%20views&color=0e75b6&style=flat" alt="aarushii-100" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aarushiijaiswal" target="blank"><img src="https://img.shields.io/twitter/follow/anirudhrai14?logo=twitter&style=for-the-badge" alt="aarushiiijaiswal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aarushiijaiswal" target="blank"><img src="https://img.shields.io/twitter/follow/aarushiijaiswal?logo=twitter&style=for-the-badge" alt="aarushiiijaiswal" /></a> </p>
 
 - 🔭 I’m currently working on **a search engine**
 
