@@ -5,25 +5,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anirudh-100&label=Profile%20views&color=0e75b6&style=flat" alt="anirudh-100" /> </p>
 
-<p align="left"> <a href="https://twitter.com/anirudhrai14" target="blank"><img src="https://img.shields.io/twitter/follow/anirudhrai14?logo=twitter&style=for-the-badge" alt="anirudhrai14" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aarushiijaiswal" target="blank"><img src="https://img.shields.io/twitter/follow/anirudhrai14?logo=twitter&style=for-the-badge" alt="aarushiiijaiswal" /></a> </p>
 
 - 🔭 I’m currently working on **a search engine**
 
-- 🌱 I’m currently learning **Web devlopment**
+- 🌱 I’m currently learning **C++,Java**
 
-- 📫 How to reach me **aarushijaiswal@gmail.com**
+- 📫 How to reach me **aarushijaiswal27@gmail.com**
 
 - 📄 Know about my experiences 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anirudh-rai-170402228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-170402228" height="30" width="40" /></a>
-<a href="https://fb.com/anirudh rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aarushi jaiswal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aarushi-jaiswal-a40969212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aarushi-jaiswal-a40969212" height="30" width="40" /></a>
+<a href="https://fb.com/aarushi jaiswal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aarushi jaiswal" height="30" width="40" /></a>
 <a href="https://instagram.com/chutiyapafucksaward" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chutiyapafucksaward" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/anonymous world" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="anonymous world" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anirudhr_12" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anirudh rai-1641530012aiml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anirudh rai-1641530012aiml" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/anirudh rai-1641530012aiml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/2101640100001_cs" height="30" width="40" /></a>
 <a href="https://leetcode.com/aarushijaiswal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aarushijaiswal" height="30" width="40" /></a>
 </p>
 
